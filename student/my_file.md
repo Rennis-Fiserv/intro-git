@@ -1,12 +1,12 @@
 # About Me
-My name is: Dhruv.
+My name is: Rennis.
 
 ## Food
-My favorite food is: Pad Thai.
+My favorite food is: Gyro.
 
 ## 
-My hobbies are: PC games, swimming, basketball.
+My hobbies are: Soccer, basketball, listening to music.
 
 ##
-My favorite artist/band is: Nirvana.
+My favorite artist/band is: Edward Hopper.
 
